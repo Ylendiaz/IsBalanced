@@ -1,1 +1,1 @@
-# IsBalanced
+# IsBalanced(string) bool
